@@ -1,6 +1,6 @@
 # NexTube MERN STACK
 
-### We use in this project :
+We use in this project :
 #### Frontend Part :
 - React JS
 - Tailwind CSS
